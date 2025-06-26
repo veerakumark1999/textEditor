@@ -49,15 +49,6 @@ Click Here to View Live
 Desktop	Mobile
 ✅ Works perfectly	✅ Compact delete buttons, stacked notes
 
-📌 Future Improvements
-Add tags or labels to notes
-
-Search/filter saved notes
-
-Add dark/light theme toggle
-
-Save notes with timestamps
-
 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
@@ -65,6 +56,6 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 This project is open-source under the MIT License.
 
 💡 Author
-Your Name – Veerakumr K
+Your Name – Veerakumar K
 Made with ❤️ for learning & sharing
 
