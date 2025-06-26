@@ -1,6 +1,6 @@
 📝 Text Editor with Save Notes (LocalStorage)
 A lightweight and responsive text editor that allows users to type, edit, and save multiple notes using localStorage. No backend needed!
-
+😃 App-link:  https://stack-texteditor.netlify.app/
 🚀 Features
 ✍️ Real-time text editor
 
